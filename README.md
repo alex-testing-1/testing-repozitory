@@ -1,6 +1,5 @@
 # testing-repozitory
 test
 
-some test commit
-another test commit
+some test commit 1
 
